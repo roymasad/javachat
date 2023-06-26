@@ -15,6 +15,8 @@ To run you can run with the Java CLI command directly or Gradle Run
 
 The built jar is in /build/libs
 
+the database.db sqlite file must be in the data folder
+
 This was created using Netbeans 18, Gradle and JDK17
 
 #License
